@@ -1,11 +1,12 @@
 ![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
-
+![@jleo3](../../assets/me/scary_cactus.jpg)
 #BEWD - Working Like A Developer 
 
-###Instructor Name
+###Joe Leo
 
-Instructors current role.
-
+Associate Vice President, Credit Suisse
+Instructor, General Assembly
+Rapper, Retired
 ---
 
 
@@ -22,26 +23,29 @@ Instructors current role.
 
 ##Installation
 ###Terminal
+###Browser
 
 
-This class is using Ruby 2.0 and Rails 4.0. 
+This class is using Ruby 2.0 and Rails 4.0. We will use SublimeText2 for editing files.
 
-We are still putting together instructions for both PCs and MACs. 
+1. Copy and paste the following in your command prompt and hit ENTER:
+\curl -L https://get.rvm.io | bash -s stable --ruby -s stable --rails
 
-For now please have students install using your preferred method.
-
+2. Copy and paste the following in your browser and hit ENTER:
+http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2.dmg
 ---
 
 
 ##Introductions
-Instructors choose your ice breaker
-
+Birthdays!
+1. Name
+2. Occupation
+3. What did you do on your last birthday?
 ---
 
 ##Course Administration
-###Lets Get This Out Of The Way
 
-During this class we will learn command line, Git, Ruby and Rails, in that order.
+During this class we will learn command line, Git, Ruby, and Rails, in that order.
 
 *	To pass the course: 
 	*	Complete 80% of all assigned homework
@@ -84,8 +88,9 @@ During this class we will learn command line, Git, Ruby and Rails, in that order
 	*	Impress your friends as you navigate the computer using your keyboard.
 ---
 
+![Fail Fast](../../assets/command_line/fail-fast.jpg)
 
-
+---
 ##Command Line
 
 ![Find The Terminal](../../assets/command_line/spotlight.png)
