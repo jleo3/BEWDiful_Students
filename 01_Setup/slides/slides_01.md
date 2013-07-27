@@ -83,6 +83,7 @@ During this class we will learn command line, Git, Ruby, and Rails, in that orde
 
 *	Its faster
 	*	Working with the keyboard increases your speed. The mouse slows you down.
+![The First Mouse](../../assets/command_line/mouse.jpg)
 
 * Its Cool!
 	*	Impress your friends as you navigate the computer using your keyboard.
