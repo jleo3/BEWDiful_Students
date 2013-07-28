@@ -1,5 +1,4 @@
 change theme
-run on local server
 get speaker notes working
-markdown newlines
 Fix "INSTALLATION" slide
+https://github.com/suan/vim-instant-markdown
