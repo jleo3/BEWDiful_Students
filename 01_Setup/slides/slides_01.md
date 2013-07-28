@@ -142,26 +142,54 @@ During this class we will learn command line, Git, Ruby, and Rails, in that orde
 
 
 ---
-
-
 ##Git
 ###Why Use GIT?
 
-*	Confident Changes
-*	Checkpoints
-*	File recovery 
+* Keep Your Code Safe and Secure
+![Why Use GIT](../../assets/GitHub/why_use_git.png)
+---
+##Git
+###Why Use GIT?
+![Your Book](../../assets/GitHub/greatest.jpg)
+---
+##Git
+###Why Use GIT?
+* Keep Your Code Safe and Secure
+* Mistaek Proof Your Code
+
+![Why Use GIT](../../assets/GitHub/why_use_git.png)
+---
+##Git
+###Why Use GIT?
+
+![Your Book](../../assets/GitHub/greatest.jpg)
+---
+##Git
+###Why Use GIT?
+* Keep Your Code Safe and Secure
+* Mistaek Proof Your Code
+* Make Your Code Easy to Change
 
 ![Why Use GIT](../../assets/GitHub/why_use_git.png)
 
 ---
+![](../../assets/GitHub/collaboration.jpg)
+* Collaboration
+---
+##Git
+###Why Use GIT?
+* Keep Your Code Safe and Secure
+* Mistaek Proof Your Code
+* Make Your Code Easy to Change
+* Collaboration
 
+![Why Use GIT](../../assets/GitHub/why_use_git.png)
 
-
+---
 ![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
 ##Git Basics
 
 ---
-
 
 ##GitHub
 ###What is GitHub?
@@ -172,7 +200,11 @@ During this class we will learn command line, Git, Ruby, and Rails, in that orde
 
 ---
 
+![Hyett](../../assets/GitHub/hyett.jpg)
+![Preston-Werner](../../assets/GitHub/preston-werner.jpg)
+![Wanstrath](../../assets/GitHub/wanstrath.jpg)
 
+---
 ##GitHub
 ###FORKS
 ![ Git In Class Diagram](../../assets/GitHub/fork_Diagram.png)
