@@ -4,9 +4,9 @@
 
 ###Joe Leo
 
-Associate Vice President, Credit Suisse
-Instructor, General Assembly
-Rapper, Retired
+* Associate Vice President, Credit Suisse
+* Instructor, General Assembly
+* Rapper, Retired
 ---
 
 
