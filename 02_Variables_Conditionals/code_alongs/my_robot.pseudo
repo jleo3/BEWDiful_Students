@@ -1,0 +1,15 @@
+IF YOU CANNOT FIND JOE'S LAPTOP
+  CALL JOE("Where is your laptop, buddy?")
+ELSE
+  LOG IN TO JOE'S LAPTOP("my_password")
+  OPEN CHROME
+  TYPE("www.gmail.com")
+  FOR EACH UNREAD EMAIL
+    IF EMAIL IS URGENT
+      CALL JOE("You have an urgent email!")
+    ELSE
+      WRITE TEXT OF EMAIL WITH PEN AND PAPER
+  LOG OUT OF JOE'S LAPTOP
+
+WALK AWAY
+GET A ROBOT SNACK

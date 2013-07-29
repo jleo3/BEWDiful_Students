@@ -1,3 +1,9 @@
+The dirty little secret of programming is that anyone can do it. ANYONE. Programming is not difficult to learn. Programming is difficult to do well.
+
+Be in a constant state of learning
+Commit to your craft. 
+
+---
 ##Command Line
 It's true that every time you touch your mouse you are doing something inefficiently. There is almost nothing 
 

@@ -124,10 +124,10 @@ defined? do else elsif end in module next nil not return self super then true wh
 ##Variables
 ###Store Values
 
-		name = "Steven"
-		=> name # "Steven"
-		age = 2013 - 1983
-		=> age # 30
+		name = "Joe"
+		=> name # "Joe"
+		age = 2013 - 1981
+		=> age # 32
 ---
 
 
@@ -158,12 +158,18 @@ Teddit is a news aggregator we will build during this course.
 		=> program waits for you to type your response
 		
 ---
+##Using Google
+Get familiar with using Google to look up syntax.
 
+* Learn to search for the _correct_ results.
+* If it doesn't show up on the first page, you probably need a better search.
+* Remember there are other tools out there: StackOverflow, railsguides, etc...
+
+---
 
 ![GeneralAssemb.ly](http://studio.generalassemb.ly/GA_Slide_Assets/Exercise_icon_md.png)
 ##Teddit Strings
 
-__Hint:__ Get familiar with using Google to look up syntax.
 If you're stuck on syntax write down the steps in English. Focus on thinking like a programmer.
 
 ---
