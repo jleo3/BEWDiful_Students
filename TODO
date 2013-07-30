@@ -2,3 +2,4 @@ change theme
 get speaker notes working
 Fix "INSTALLATION" slide
 https://github.com/suan/vim-instant-markdown
+https://github.com/hallison/vim-markdown -- syntax highlighting

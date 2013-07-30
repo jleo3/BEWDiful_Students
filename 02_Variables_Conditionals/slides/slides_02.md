@@ -178,11 +178,9 @@ If you're stuck on syntax write down the steps in English. Focus on thinking lik
 ##Data Types
 ###Booleans 
 
-It's either TRUE or FALSE
+It's either TRUE or FALSE (and yes, they're both objects)
 
 ---
-
-
 ##Boolean
 ###Logic Operators
 
@@ -226,6 +224,7 @@ Variables
 
 ##Methods
 ###Keep your code DRY
+![DRY](../../assets/02/dry.jpg)
 
 * 	Groups program logic together so you don't have to repeat yourself. 
 * 	Can pass variables to methods
@@ -233,6 +232,8 @@ Variables
 		
 		def say_hello_to(name)
 			puts "Hi #{name}"
+      puts "There are #{name.length} letters in your name."
+      puts "OK, bye #{name}!"
 		end
 		
 		say_hello_to "John" 
@@ -240,7 +241,39 @@ Variables
 	>	outputs: Hi John
 
 ----
+##Methods
+###Keep your code DRY
 
+			puts "Hi John"
+      puts "There are #{"John".length} letters in your name."
+      puts "OK, bye John"
+			puts "Hi Catherine"
+      puts "There are #{"Catherine".length} letters in your name."
+      puts "OK, bye Catherine"
+			puts "Hi Diana"
+      puts "There are #{"Diana".length} letters in your name."
+      puts "OK, bye Diana"
+			puts "Hi Marjorie"
+      puts "There are #{"Marjorie".length} letters in your name."
+      puts "OK, bye Marjorie"
+			puts "Hi Aniket"
+      puts "There are #{"Aniket".length} letters in your name."
+      puts "OK, bye Aniket"
+			puts "Hi Ravi"
+      puts "There are #{"Ravi".length} letters in your name."
+      puts "OK, bye Ravi"
+---
+##Methods
+###Keep your code DRY
+
+		say_hello_to "John" 
+		say_hello_to "Catherine" 
+		say_hello_to "Diana" 
+		say_hello_to "Marjorie" 
+		say_hello_to "Aniket" 
+		say_hello_to "Ravi" 
+
+---
 ##Conditional Logic
 ###Decision Time 
 

@@ -67,3 +67,82 @@ Show searching from browser (stackoverflow.com: <TAB>)
 ---
 Exercise
 ---
+
+###Booleans 
+
+true.class
+false.class
+
+These are objects, just like everything else we've seen so far. 
+
+Boolean logic is essential for programming. It's binary -- anytime you put a boolean in place both you and the computer know there are exactly two possible outcomes. This comes in handy when defining procedures.
+
+(Show pseudo code)
+This if statement is instituting Boolean logic. The robot can either find my computer or he can't. It's binary, and binary operations form the backbone of programs.
+---
+
+And here's what we use to get our true or false results. Let's try a couple of these out in pry.
+
+---
+
+Code Along - Booleans
+
+---
+
+##Variables & Data Types
+###Recap 
+
+Let's look at these last three properties of variables because I want to make sure we're all together:
+
+* Store values: x = 7
+7 is now the "stored value" of x
+
+* Values can change:
+x = 4
+The value of x has now changed. The value of 7 is gone forever. 
+
+* Can be passed to methods: remember our 1 + 1 example? Let's try this:
+  1 + x
+  What does x equal? This is an example of passing a method:
+  1.+(x)
+
+  But we're going to get into detail with method passing right now.
+
+---
+Code along
+
+---
+##Methods
+###Keep your code DRY
+
+DRY - Don't Repeat Yourself
+
+This is the most important, the easiest to understand, and the most flagrantly violated principle in all of programming.
+
+You don't have to worry about remembering this right now because I'm going to go over it until you're absolutely sick of hearing it.
+
+Put simply, you only ever want to do the same thing once. Duplicate code leads to waste, inefficiency, and bugs.
+
+Methods help to solve this. This is a great example. We write the method say_hello_to. Simple enough, we say hello to John and we tell him how many letters are in his name. But what if we need to say hello to this whole class?
+
+---
+
+Does this look like something you want to write over and over? I can tell you that it was hard for me to even copy and paste this code over and over. I kept checking to make sure I had it right.
+
+---
+
+This is much nicer, isn't it? We pass the the name as a method and we cut down on duplication. (We can actually do better than this, make it even more DRY, but this is good enough for now.) 
+
+---
+##Conditional Logic
+###Multiple Conditions
+
+---
+##Conditional Logic
+###Multiple Conditions
+
+---
+
+truth table
+
+---
