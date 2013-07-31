@@ -1,5 +1,6 @@
-![@jleo3](../../assets/me/scary_cactus.jpg)
-![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
+<div style="float: left"><img src="../../assets/me/scary_cactus.jpg" /></div>
+<div style="float: right"><img src="https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png" /></div>
+
 #BEWD - Working Like A Developer 
 
 ###Joe Leo
@@ -28,13 +29,12 @@
 This class is using Ruby 2.0 and Rails 4.0. We will use SublimeText2 for editing files.
 
 1. Copy and paste the following in your command prompt and hit ENTER:
-\curl -L https://get.rvm.io | bash -s stable --ruby -s stable --rails
+"\curl -L https://get.rvm.io | bash -s stable --ruby -s stable --rails"
 
 2. Copy and paste the following in your browser and hit ENTER:
 http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2.dmg
 
 ---
-
 
 ##Introductions
 
@@ -68,15 +68,12 @@ What you will get from us
 
 ---
 
-
 ##Web Development
 ###What is Back-End Web Development?
 
 ![Backend](../../assets/01/hosting.jpg)
 
 ---
-
-
 
 ##Command Line
 ###Lets learn how to work like a programmer before we start to build web applications.
@@ -91,7 +88,7 @@ What you will get from us
 *	It's faster
 	*	Working with the keyboard increases your speed. The mouse slows you down.
 
-<div style="float: left"><img src="../../assets/command_line/mouse.jpg" /></div>
+<div style="float: center"><img src="../../assets/command_line/mouse.jpg" /></div>
 
 
 ---
