@@ -150,25 +150,29 @@ What you will get from us
 
 ---
 
+<aside class="notes">
+  Git is a version control system. And here's the official Wikipedia definition of version control, aka revision control. 
+  Plenty of VCS out there: subversion, clearcase, mercurial, CVS. All of them try to accomplish the same thing.
+  But the easiest way to think of version control is as change management. Let's take a look at what that may mean for you.
+</aside>
+
 ##Git
 ###What Is git?
 
-
-<aside class="notes">
-  Describing 
-</aside>
+* A Version Control System
+  * Version control: "is the management of changes to documents, computer programs, large web sites, and other collections of information." -- Wikipedia
+  * Change management
 
 ---
 ##Git
 ###Why Use git?
 
 * Keep Your Code Safe and Secure
-![Why Use GIT](../../assets/GitHub/why_use_git.png)
 
 ---
 ##Git
 ###Why Use git?
-![Your Book](../../assets/GitHub/greatest.jpg)
+<div style="float: center"><img src="../../assets/GitHub/greatest.jpg" /></div>
 
 ---
 
@@ -177,13 +181,12 @@ What you will get from us
 * Keep Your Code Safe and Secure
 * Mistaek Proof Your Code
 
-![Why Use GIT](../../assets/GitHub/why_use_git.png)
-
 ---
+
 ##Git
 ###Why Use git?
 
-![Your Book](../../assets/GitHub/greatest.jpg)
+<div style="float: center"><img src="../../assets/GitHub/greatest.jpg" /></div>
 
 ---
 ##Git
