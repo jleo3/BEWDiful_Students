@@ -231,8 +231,6 @@ We want to be able to experiment. Let's go back to the novel example. If you wer
 * Mistaek Proof Your Code
 * Make Your Code Easy to Change
 
-![Why Use GIT](../../assets/GitHub/why_use_git.png)
-
 ---
 
 <aside class="notes">
@@ -240,7 +238,6 @@ Finally, we want to be able to collaborate. Developers - the best developers in 
 </aside>
 
 ![](../../assets/GitHub/collaboration.jpg)
-* Collaboration
 
 ---
 ##Git
@@ -249,8 +246,6 @@ Finally, we want to be able to collaborate. Developers - the best developers in 
 * Mistaek Proof Your Code
 * Make Your Code Easy to Change
 * Collaboration
-
-![Why Use GIT](../../assets/GitHub/why_use_git.png)
 
 ---
 ##Git
@@ -277,8 +272,6 @@ GitHub is a wonderful place. GitHub was invented by Chris Wanstrath, PJ Hyett, a
 ---
 
 ![Hyett](../../assets/GitHub/hyett.jpg)
-![Preston-Werner](../../assets/GitHub/preston-werner.jpg)
-![Wanstrath](../../assets/GitHub/wanstrath.jpg)
 
 ---
 
@@ -313,40 +306,32 @@ Class is over, but here are some extra resources.
 The terminal (command prompt on Windows) is the developer way of navigating your computer. You are probably used to using the graphical interface provided (Finder on a mac and MyComputer on Windows).
 
 Here is a quick reference for some of the most common commands you will use in this class. 
-Remember when you see ```“$”``` or ```“C:\>”``` in these notes that is the prompt, don’t type it.
+Remember when you see ```“$”```in these notes that is the prompt, don’t type it.
 
- 		$  MAC
-		C:\>  WINDOWS
 ####Navigation
-
 
 How do I get into a folder?
 
   		$cd folder_name
-		C:\> cd folder_name
 
 Use quotation marks if your folder name has spaces.
 
 How do I get to the parent folder?
 
 		$cd ..
-		C:\> cd ..
 
 How do I see what is in the folder?
 
 		$ls
-		C:\> dir
 
 
 How do I know what folder I am in?
 
 		$pwd
-		C:\> cd
 
 How do I create a new folder?
 
 		$mkdir folder_name
-		C:\> mkdir folder_name
 
 
 ####Deleting - (Proceed With Caution)
@@ -354,23 +339,19 @@ How do I create a new folder?
 How do I delete a folder?
 
 		$rm -r folder_name
-		c:\> rmdir folder-name
 
 How do I delete a file?
 		
 		$rm -f file_name
-		C:\> del file_name
 
 How do I move a file?
 
 		$mv file_name folder_name
-		C:\> move file_name folder_name
 The file is removed from the old location and moved to the new one.
 
 You can rename a file the same way
 
 		$mv old_name new_name
-		C:\> move old_name new_names
 
 
 ##Tips, Tricks & Motivation
