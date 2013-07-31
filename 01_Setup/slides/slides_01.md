@@ -1,5 +1,5 @@
-![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 ![@jleo3](../../assets/me/scary_cactus.jpg)
+![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 #BEWD - Working Like A Developer 
 
 ###Joe Leo
@@ -7,8 +7,8 @@
 * Associate Vice President, Credit Suisse
 * Instructor, General Assembly
 * Rapper, Retired
----
 
+---
 
 ##Agenda
 
@@ -19,7 +19,6 @@
 *	Using GitHub
 
 ---
-
 
 ##Installation
 ###Terminal
@@ -33,39 +32,47 @@ This class is using Ruby 2.0 and Rails 4.0. We will use SublimeText2 for editing
 
 2. Copy and paste the following in your browser and hit ENTER:
 http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2.dmg
+
 ---
 
 
 ##Introductions
+
 Birthdays!
+
 1. Name
 2. Occupation
 3. What did you do on your last birthday?
+
 ---
 
 ##Course Administration
 
 During this class we will learn command line, Git, Ruby, and Rails, in that order.
 
-*	To pass the course: 
-	*	Complete 80% of all assigned homework
-	*	Complete final project
+To pass the course: 
+
+*	Complete 80% of all assigned homework
+*	Complete final project
 
 ---
 
 ##Course Administration
 
-*	What you will get from us
-	* 	In class labs
-	* 	Homework
-	* 	Slides / student handout to be viewed in GitHub
-	* 	Awesome instructor
+What you will get from us
+
+* 	In class labs
+* 	Homework
+* 	Slides / student handout to be viewed in GitHub
+* 	Awesome instructor
 
 ---
 
 
 ##Web Development
 ###What is Back-End Web Development?
+
+![Backend](../../assets/01/hosting.jpg)
 
 ---
 
@@ -81,15 +88,24 @@ During this class we will learn command line, Git, Ruby, and Rails, in that orde
 ##Command Line
 ###Why Work Like A Developer?
 
-*	Its faster
+*	It's faster
 	*	Working with the keyboard increases your speed. The mouse slows you down.
-![The First Mouse](../../assets/command_line/mouse.jpg)
+
+<div style="float: left"><img src="../../assets/command_line/mouse.jpg" /></div>
+
+
+---
+
+<div style="float: center"><img src="../../assets/command_line/fail-fast.jpg" /></div>
+
+---
+##Command Line
+###Why Work Like A Developer?
 
 * Its Cool!
 	*	Impress your friends as you navigate the computer using your keyboard.
----
 
-![Fail Fast](../../assets/command_line/fail-fast.jpg)
+![Hacker](../../assets/01/hacker.gif)
 
 ---
 ##Command Line
@@ -98,15 +114,12 @@ During this class we will learn command line, Git, Ruby, and Rails, in that orde
 
 ---
 
-
 ##Command Line
 ###How Do You Use It?
 
 ####Shell Commands.
 
 ---
-
-
 
 ![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
 ##Command Line Basics
@@ -147,22 +160,27 @@ During this class we will learn command line, Git, Ruby, and Rails, in that orde
 
 * Keep Your Code Safe and Secure
 ![Why Use GIT](../../assets/GitHub/why_use_git.png)
+
 ---
 ##Git
 ###Why Use GIT?
 ![Your Book](../../assets/GitHub/greatest.jpg)
+
 ---
+
 ##Git
 ###Why Use GIT?
 * Keep Your Code Safe and Secure
 * Mistaek Proof Your Code
 
 ![Why Use GIT](../../assets/GitHub/why_use_git.png)
+
 ---
 ##Git
 ###Why Use GIT?
 
 ![Your Book](../../assets/GitHub/greatest.jpg)
+
 ---
 ##Git
 ###Why Use GIT?
@@ -175,6 +193,7 @@ During this class we will learn command line, Git, Ruby, and Rails, in that orde
 ---
 ![](../../assets/GitHub/collaboration.jpg)
 * Collaboration
+
 ---
 ##Git
 ###Why Use GIT?
