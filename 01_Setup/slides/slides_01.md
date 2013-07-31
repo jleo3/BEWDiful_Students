@@ -297,96 +297,6 @@ GitHub is a wonderful place. GitHub was invented by Chris Wanstrath, PJ Hyett, a
 ---
 
 <div id="resources">
-## Resources: Command Line Basics & Git
-
-Class is over, but here are some extra resources.
-
-##Cheat Sheet
-
-The terminal (command prompt on Windows) is the developer way of navigating your computer. You are probably used to using the graphical interface provided (Finder on a mac and MyComputer on Windows).
-
-Here is a quick reference for some of the most common commands you will use in this class. 
-Remember when you see ```“$”```in these notes that is the prompt, don’t type it.
-
-####Navigation
-
-How do I get into a folder?
-
-  		$cd folder_name
-
-Use quotation marks if your folder name has spaces.
-
-How do I get to the parent folder?
-
-		$cd ..
-
-How do I see what is in the folder?
-
-		$ls
-
-
-How do I know what folder I am in?
-
-		$pwd
-
-How do I create a new folder?
-
-		$mkdir folder_name
-
-
-####Deleting - (Proceed With Caution)
-
-How do I delete a folder?
-
-		$rm -r folder_name
-
-How do I delete a file?
-		
-		$rm -f file_name
-
-How do I move a file?
-
-		$mv file_name folder_name
-The file is removed from the old location and moved to the new one.
-
-You can rename a file the same way
-
-		$mv old_name new_name
-
-
-##Tips, Tricks & Motivation
-
-__How is my instructor moving so fast?__
-
-First, he takes control of his caps lock key: http://www.thegarvin.com/2010/08/04/remap-caps-lock-to-control.html
-
-Then, he uses keyboard shortcuts to enter commands in the Terminal. Here are some to help you keep up:
-
-**Tab Completion**: Press Tab to complete folder and file names                                                       
-
-**Control + a**: Go to the beginning of the line                                                                      
-
-**Control + e**: Go the the end of the line                                                                      
-
-**Option + b**: Move back one word
-
-**Option + f**: Move forward one word
-
-**Control + p/n**: Repeats previous commands                                                               
-
-**Control + w**: Delete last word typed
-
-**Control + u**: Delete last line typed
-
-**Control + y**: Paste last deleted item
-
-**Control + l**: Clear the screen        
- 
-**Control + r**: Reverse search for previous commands
-
-
-
-
 ##Git Diagrams and Pictures
 
 Fork Button
@@ -401,9 +311,11 @@ __Adding A Remote__
 
 [GitHub help](https://help.github.com/articles/adding-a-remote)
 
+---
+
+<div id="resources">
 ##Still Feel Lost? 
 ###Catch Up With These Resources
-
 
 -	[Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 
