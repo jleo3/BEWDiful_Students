@@ -1,3 +1,7 @@
+<aside class="notes">
+  The dirty little secret of programming is that anyone can do it. ANYONE. Programming is not difficult to learn. Programming is difficult to do well.
+
+</aside>
 <div style="float: left"><img src="../../assets/me/scary_cactus.jpg" /></div>
 <div style="float: right"><img src="https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png" /></div>
 
@@ -9,10 +13,6 @@
 * Instructor, General Assembly
 * Rapper, Retired
 
-<aside class="notes">
-  The dirty little secret of programming is that anyone can do it. ANYONE. Programming is not difficult to learn. Programming is difficult to do well.
-
-</aside>
 ---
 
 ##Agenda
@@ -150,29 +150,30 @@ What you will get from us
 
 ---
 
-
 ##Git
-###What Is GIT?
+###What Is git?
 
-![Using Git](../../assets/GitHub/git_general_diagram.png)
 
+<aside class="notes">
+  Describing 
+</aside>
 
 ---
 ##Git
-###Why Use GIT?
+###Why Use git?
 
 * Keep Your Code Safe and Secure
 ![Why Use GIT](../../assets/GitHub/why_use_git.png)
 
 ---
 ##Git
-###Why Use GIT?
+###Why Use git?
 ![Your Book](../../assets/GitHub/greatest.jpg)
 
 ---
 
 ##Git
-###Why Use GIT?
+###Why Use git?
 * Keep Your Code Safe and Secure
 * Mistaek Proof Your Code
 
@@ -180,13 +181,13 @@ What you will get from us
 
 ---
 ##Git
-###Why Use GIT?
+###Why Use git?
 
 ![Your Book](../../assets/GitHub/greatest.jpg)
 
 ---
 ##Git
-###Why Use GIT?
+###Why Use git?
 * Keep Your Code Safe and Secure
 * Mistaek Proof Your Code
 * Make Your Code Easy to Change
@@ -199,7 +200,7 @@ What you will get from us
 
 ---
 ##Git
-###Why Use GIT?
+###Why Use git?
 * Keep Your Code Safe and Secure
 * Mistaek Proof Your Code
 * Make Your Code Easy to Change
@@ -208,6 +209,12 @@ What you will get from us
 ![Why Use GIT](../../assets/GitHub/why_use_git.png)
 
 ---
+##Git
+###How does Git Work?
+![Using Git](../../assets/GitHub/git_general_diagram.png)
+
+---
+
 ![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
 ##Git Basics
 
