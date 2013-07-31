@@ -5,7 +5,10 @@ Commit to your craft.
 
 ---
 ##Command Line
-It's true that every time you touch your mouse you are doing something inefficiently. There is almost nothing 
+It's true that every time you touch your mouse you are doing something inefficiently. There is almost nothing you do with a mouse that you can't do with the keyboard, including:
+- Opening programs
+- Surfing the web
+- Navigating applications - GMail, GitHub, Twitter, etc...
 
 ---
 Here is a picture of the first mouse, created in 1963 by Douglas Engelbart and Bill English. I'm including this clunky thing so that you can burn it into your memory. Every time you think of using your mouse, think of this thing. Almost every single thing you are currently doing with your mouse can be done with the keyboard. You just have to learn it. 

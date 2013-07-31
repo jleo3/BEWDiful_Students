@@ -1,6 +1,8 @@
 <aside class="notes">
-  The dirty little secret of programming is that anyone can do it. ANYONE. Programming is not difficult to learn. Programming is difficult to do well.
+The dirty little secret of programming is that anyone can do it. ANYONE. Programming is not difficult to learn. Programming is difficult to do well.
 
+Be in a constant state of learning
+Commit to your craft. 
 </aside>
 <div style="float: left"><img src="../../assets/me/scary_cactus.jpg" /></div>
 <div style="float: right"><img src="https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png" /></div>
@@ -78,6 +80,12 @@ What you will get from us
 ![Backend](../../assets/01/hosting.jpg)
 
 ---
+<aside class="notes">
+It's true that every time you touch your mouse you are doing something inefficiently. There is almost nothing you do with a mouse that you can't do with the keyboard, including:
+- Opening programs
+- Surfing the web
+- Navigating applications - GMail, GitHub, Twitter, etc...
+</aside>
 
 ##Command Line
 ###Lets learn how to work like a programmer before we start to build web applications.
@@ -85,6 +93,9 @@ What you will get from us
 
 ---
 
+<aside class="notes">
+Here is a picture of the first mouse, created in 1963 by Douglas Engelbart and Bill English. I'm including this clunky thing so that you can burn it into your memory. Every time you think of using your mouse, think of this thing. Use it as inspiration.
+</aside>
 
 ##Command Line
 ###Why Work Like A Developer?
@@ -96,6 +107,12 @@ What you will get from us
 
 
 ---
+
+<aside class="notes">
+I remember my first job at Cyrus Innovation. I was working with two developers that were light years ahead of me.
+What could I do? I could learn keyboard shortcuts, simple tricks, memorization.
+I could keep up and fail fast.
+</aside>
 
 <div style="float: center"><img src="../../assets/command_line/fail-fast.jpg" /></div>
 
@@ -122,6 +139,13 @@ What you will get from us
 ####Shell Commands.
 
 ---
+
+<aside class="notes">
+* cd - change directory; most commands are short for something so they can help as mnemonic devices. chmod - change mode; cat - catenate; mkdir, etc.
+* notice what happens when I run my script more than once. (explain '>>' vs. '>')
+* Change this to a ruby script (show ruby FileUtils: http://ruby-doc.org/stdlib-1.9.3/libdoc/fileutils/rdoc/FileUtils.html)
+* Make a ruby script that simply does "puts"
+</aside>
 
 ![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
 ##Command Line Basics
@@ -170,11 +194,20 @@ What you will get from us
 * Keep Your Code Safe and Secure
 
 ---
+
+<aside class="notes">
+If you write a novel, you'd probably want to save it someplace other than your computer. You don't want to have to rewrite everything if something happens to your computer. Well developers don't want to lose their code, either. So the first thing version control provides is safety from loss. It also gives us checkpoints. Every so often, when we think we've done something worth saving, we can check it in.
+</aside>
+
 ##Git
 ###Why Use git?
 <div style="float: center"><img src="../../assets/GitHub/greatest.jpg" /></div>
 
 ---
+
+<aside class="notes">
+Next, we developers want to be able to make changes. We want to test things out. And we want to be able to do it without any consequences. If I write a whole bunch of code that I don't like, we want to be able to get rid of it. Here, version control helps us, because we can easily discard our changes and start back from the last known good state.
+</aside>
 
 ##Git
 ###Why Use git?
@@ -183,6 +216,9 @@ What you will get from us
 
 ---
 
+<aside class="notes">
+We want to be able to experiment. Let's go back to the novel example. If you were writing a novel and you wanted to explore a character by delving into her past, what would you do? Maybe you'd save a different copy. Demonstrate file -> save as. Version Control is what developers use to accomplish this, and it beats the pants off of file -> save as... With git we simply make a branch and we work on that branch. If things work out, great! We integrate it back to the main story. If not, we can leave it, or throw it out, or do whatever we want with it. It will never interfere with our master copy of the code.
+</aside>
 ##Git
 ###Why Use git?
 
@@ -198,6 +234,11 @@ What you will get from us
 ![Why Use GIT](../../assets/GitHub/why_use_git.png)
 
 ---
+
+<aside class="notes">
+Finally, we want to be able to collaborate. Developers - the best developers in the world - work in teams. It's a concept you're going to get used to here in this class because it's a key to success in development. Version Control, particularly git, makes collaboration possible. We can share our code easily, change it together or separately, keep in sync. Git makes this possible and GitHub makes it easy!
+</aside>
+
 ![](../../assets/GitHub/collaboration.jpg)
 * Collaboration
 
@@ -223,6 +264,9 @@ What you will get from us
 
 ---
 
+<aside class="notes">
+GitHub is a wonderful place. GitHub was invented by Chris Wanstrath, PJ Hyett, and Tom Preston-Werner. They started the company in 2008 and nobody was all that interested. But they kept at it, and those three guys wrote - in Ruby on Rails - a product that today has over 3 million users and is adding more than 10,000 a day. And what does it do? It helps you code. It helps people collaborate better than any tool ever has. So we're going to use it in this class.
+</aside>
 ##GitHub
 ###What is GitHub?
 
@@ -237,32 +281,27 @@ What you will get from us
 ![Wanstrath](../../assets/GitHub/wanstrath.jpg)
 
 ---
+
 ##GitHub
 ###FORKS
 ![ Git In Class Diagram](../../assets/GitHub/fork_Diagram.png)
 
 ---
 
-
-
 ![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
 ##Git In Class
 
 ---
 
-
 ![GeneralAssemb.ly](../../assets/ICL_icons/Exercise_icon_md.png)
 ## Git It Together
 
 ---
-
-
 ## Homework
 
 *	Review command line and GitHub
 
 ---
-
 
 <div id="resources">
 ## Resources: Command Line Basics & Git
