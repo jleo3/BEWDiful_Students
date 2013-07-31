@@ -9,6 +9,10 @@
 * Instructor, General Assembly
 * Rapper, Retired
 
+<aside class="notes">
+  The dirty little secret of programming is that anyone can do it. ANYONE. Programming is not difficult to learn. Programming is difficult to do well.
+
+</aside>
 ---
 
 ##Agenda
@@ -99,8 +103,9 @@ What you will get from us
 ##Command Line
 ###Why Work Like A Developer?
 
-* Its Cool!
+* It's more fun!
 	*	Impress your friends as you navigate the computer using your keyboard.
+  * Complete in seconds what takes "normals" minutes.
 
 ![Hacker](../../assets/01/hacker.gif)
 
@@ -131,10 +136,11 @@ What you will get from us
 
 
 ##Terminal
-###Join The Developer Club
+###Becoming a Hacker
 
-*	You are now one of the cool kids. 
+*	This is enough to get you started on the road to great hacking.
 	*	Keep practicing and see the cheat sheet in the handout for a list of common commands.
+  * Every time your reach for your mouse, ask yourself if there's a better way. Better yet, ask Google.
 
 ---
 
@@ -322,9 +328,9 @@ You can rename a file the same way
 
 __How is my instructor moving so fast?__
 
-We hire wizards from Hogwarts to teach our courses. Just kidding they’re using shortcuts in the command line. 
+First, he takes control of his caps lock key: http://www.thegarvin.com/2010/08/04/remap-caps-lock-to-control.html
 
-Here are some to help you keep up:
+Then, he uses keyboard shortcuts to enter commands in the Terminal. Here are some to help you keep up:
 
 **Tab Completion**: Press Tab to complete folder and file names                                                       
 
@@ -336,7 +342,7 @@ Here are some to help you keep up:
 
 **Option + f**: Move forward one word
 
-**Up/Down Arrow Keys**: Repeats previous commands                                                               
+**Control + p/n**: Repeats previous commands                                                               
 
 **Control + w**: Delete last word typed
 
@@ -346,6 +352,9 @@ Here are some to help you keep up:
 
 **Control + l**: Clear the screen        
  
+**Control + r**: Reverse search for previous commands
+
+
 
 
 ##Git Diagrams and Pictures
