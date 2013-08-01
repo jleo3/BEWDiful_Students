@@ -34,6 +34,14 @@
 
 ---
 
+<aside class="notes">
+Open source means that the project's source code is open to the public. Usually open source projects are free to use and accept contributions from outside developers.
+
+Matz is the creator of Ruby, and Dave Thomas is responsible for its popularity here in the US. Matz is a great ambassador for Ruby, appearing at conferences and speaking engagements all over the world. Dave Thomas is one of the early adopters of Ruby and has been instrumental in helping it catch fire in the developer community.
+
+Rails was created by a gentleman named David Hennemeier Hanson, or DHH. DHH is a loud-mouthed, controversial spokesman who's polarized many people. But his genius in creating a framework that so many thousands, even millionso of developers could understand and enjoy cannot be denied.
+</aside>
+
 ##Ruby & Rails
 ###Ruby
 
@@ -51,7 +59,9 @@
 
 ---
 
-
+<aside class="notes">
+Really we're going to learn both Ruby and Rails together. Since everything is written in Ruby and since we're going to be moving so quickly in this class, it may be hard to tell what's strictly Ruby and what's part of Rails. Don't worry about that too much at first. Take comfort in the fact that everything is Ruby and so everything is worthwhile and good learning.
+</aside>
 ##Ruby & Rails
 ###Ruby first.
 
@@ -60,7 +70,6 @@
 ![ Karate Kid](../../assets/ruby/karate_kid.jpg)
 
 ---
-
 
 ##Ruby & Rails
 ###Ruby Keywords
